@@ -1,0 +1,9 @@
+# Ignorar configuração da IDE
+.idea/
+
+# Ignorar variáveis de ambiente e configs sensíveis
+.env
+docker-compose.yml
+
+# Ignorar application.properties de todos os microservices
+**/application.properties
